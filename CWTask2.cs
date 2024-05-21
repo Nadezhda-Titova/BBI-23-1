@@ -1,5 +1,5 @@
-
-//Вариант 1
+﻿
+//Вариант 7
 using System;
 
 public class Number

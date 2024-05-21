@@ -1,8 +1,4 @@
-﻿using System.Diagnostics;
-using System.Xml.Linq;
-
-//Вариант 1
-
+﻿//Вариант 1
 using System;
 
 public struct Number
@@ -60,5 +56,3 @@ class Program
         quotient.PrintNumber();
     }
 }
-
-
